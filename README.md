@@ -10,9 +10,9 @@ Completed:
 * [] Required: Settings page to change the default tip percentage.
 * [] Optional: UI animations
 * [] Optional: Remembering the bill amount across app restarts (if <10mins)
-    * [] Optional: Using locale-specific currency and currency thousands separators.
-    * [] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [] Optional: Using locale-specific currency and currency thousands separators.
+* [] Optional: Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-    ![Video Walkthrough](calculator.gif)
+![Video Walkthrough](calculator.gif)
 
-    Note: to embed the gif file, just check your gif file into your repo and update the name of the file above.
+Note: to embed the gif file, just check your gif file into your repo and update the name of the file above.
